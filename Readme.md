@@ -6,4 +6,4 @@ Jest to wypracowanie po tytułem **Czy korzystanie z git jest proste?**
 ### Wybrane informacje
 
 - wypracowanie.txt - plik zawierający treść repozytorium
-
+- notatki ppp
